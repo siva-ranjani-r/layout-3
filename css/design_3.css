@@ -1,0 +1,160 @@
+.top{
+	display:flex;
+	background-color:navy;
+	justify-content:flex-end;
+}
+.item{
+	background-color:#00A6EB;
+	width:100px;
+	height:30px;
+}
+.wrap{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:white;
+	padding-top:10px;
+	justify-content:flex-end;
+	flex-direction:row;
+}
+.rows{
+	background-color:gray;
+	margin:20px;
+    width:100px;	
+	height:20px;
+}
+.rows1{
+	background-color:blue;
+	width:50px;
+	height:30px;
+	margin:20px;
+	padding-right:20px;
+}
+.box{
+	display:flex;
+	background-color:#6A5338;
+	justify-content:flex-start;
+	height:300px;
+	padding:50px;
+}
+.empty{
+	background-color:white;		
+	height:50px;
+	width:100px;
+	margin-top:200px;
+}
+.right{
+	background-color:white;
+	display:flex;
+	justify-content:flex-end;
+	padding-top:50px;
+}
+.column{
+    background-color:#DDDBDC;
+	margin:10px;
+	margin-right:40px;
+	height:350px;
+    width:600px;	
+}
+.container{
+	display:flex;
+	background-color:#F6F7F6;
+	justify-content:space-evenly;
+	width:1500px;
+	height:100px;
+	margin-top:20px;
+}
+.flex{
+	background-color:#5FCF80;
+	width:100px;
+	height:50px;
+	margin-top:20px;
+}
+.mentor{
+	display:flex;
+	background-color:silver;
+	justify-content:space-evenly;
+	width:100%;
+	height:300px;
+	margin-top:20px;
+}
+.labour{
+	background-color:gray;
+	width:300px;
+	height:250px;
+	margin-top:20px;
+}
+.labour1{
+	background-color:#5FCF80;
+	width:300px;
+	height:250px;
+	margin-top:20px;
+}
+.signal{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	background-color:gray;
+	justify-content:space-evenly;
+	height:500px;
+	padding-top:50px;
+	margin-top:20px;
+}
+.print{
+	background-color:#FFFFFF;
+	padding:20px;
+	width:20%;
+	height:100px;
+}
+.web{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	background-color:#7BBDFF;
+	justify-content:space-evenly;
+	height:300px;
+	padding-top:50px;
+	margin-top:20px;
+}
+.marketing{
+	background-color:#29CC61;
+	padding:20px;
+	width:20%;
+	height:150px;
+}
+.button{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	background-color:white;
+	justify-content:space-evenly;
+	height:300px;
+	margin-top:50px;
+	margin-left:20px;
+}
+.picture{
+	background-color:#CCCCCC;
+	padding:50px;
+	width:21%;
+	height:300px;
+}
+.search{
+	background-color:#1C2A40;
+	display:flex;
+	justify-content:flex-end;
+	flex-direction:row;
+	margin-top:200px;
+	height:200px;
+	width:50%px;
+}
+.layout{
+	background-color:gray;
+	width:200px;
+	height:50px;
+	margin-top:80px;
+}
+.symbol{
+	background-color:#0D42FF;
+	width:100px;
+	height:50px;
+	margin-top:80px;
+}
